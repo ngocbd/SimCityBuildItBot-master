@@ -1,0 +1,230 @@
+F:\Projects\TestNegative\TestNegative\bin\Debug\SimCityBuildItBot.exe.config
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\configs\bazzar
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\eng.cube.bigrams
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\eng.cube.fold
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\eng.cube.lm
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\eng.cube.nn
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\eng.cube.params
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\eng.cube.size
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\eng.cube.word-freq
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\eng.tesseract_cube.nn
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\eng.traineddata
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\eng.user-patterns
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\eng.user-words
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\x64\liblept172.dll
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\x64\libtesseract304.dll
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\x86\liblept172.dll
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\x86\libtesseract304.dll
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\SimCityBuildItBot.exe.config
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\SimCityBuildItBot.exe
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\SimCityBuildItBot.pdb
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Camalot.Common.dll
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Common.Logging.Core.dll
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Common.Logging.dll
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Managed.Adb.dll
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\MoreLinq.dll
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Newtonsoft.Json.dll
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\SimplePaletteQuantizer.exe
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Tesseract.dll
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\SimplePaletteQuantizer.pdb
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Common.Logging.pdb
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Common.Logging.xml
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Common.Logging.Core.pdb
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Common.Logging.Core.xml
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Managed.Adb.pdb
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Managed.Adb.xml
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\MoreLinq.xml
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Newtonsoft.Json.xml
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Tesseract.xml
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.DebugForm.resources
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.Properties.Resources.resources
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.ResourceReaderDesigner.resources
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.ScreenCaptureDesigner.resources
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.BotForm.resources
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.TestForm.resources
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.csproj.GenerateResource.Cache
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.exe
+F:\Projects\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.pdb
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\SimCityBuildItBot.exe.config
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.exe
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.pdb
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\configs\bazzar
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\eng.cube.bigrams
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\eng.cube.fold
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\eng.cube.lm
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\eng.cube.nn
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\eng.cube.params
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\eng.cube.size
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\eng.cube.word-freq
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\eng.tesseract_cube.nn
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\eng.traineddata
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\eng.user-patterns
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\eng.user-words
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\x64\liblept172.dll
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\x64\libtesseract304.dll
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\x86\liblept172.dll
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\x86\libtesseract304.dll
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\SimCityBuildItBot.exe
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\SimCityBuildItBot.pdb
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Camalot.Common.dll
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Common.Logging.Core.dll
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Common.Logging.dll
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Managed.Adb.dll
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\MoreLinq.dll
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Newtonsoft.Json.dll
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\SimplePaletteQuantizer.exe
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Tesseract.dll
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\SimplePaletteQuantizer.pdb
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Common.Logging.pdb
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Common.Logging.xml
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Common.Logging.Core.pdb
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Common.Logging.Core.xml
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Managed.Adb.pdb
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Managed.Adb.xml
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\MoreLinq.xml
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Newtonsoft.Json.xml
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Tesseract.xml
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.csprojResolveAssemblyReference.cache
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.DebugForm.resources
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.Properties.Resources.resources
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.ResourceReaderDesigner.resources
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.ScreenCaptureDesigner.resources
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.BotForm.resources
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.TestForm.resources
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.csproj.GenerateResource.Cache
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.TradeDepot.resources
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.Bot.MemuChooser.resources
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.ShoppingListsForm.resources
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.BuyForm.resources
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\SimCityBuildItBot.exe.config
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.exe
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.pdb
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\configs\bazzar
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\eng.cube.bigrams
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\eng.cube.fold
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\eng.cube.lm
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\eng.cube.nn
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\eng.cube.params
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\eng.cube.size
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\eng.cube.word-freq
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\eng.tesseract_cube.nn
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\eng.traineddata
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\eng.user-patterns
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\tessdata\eng.user-words
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\x64\liblept172.dll
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\x64\libtesseract304.dll
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\x86\liblept172.dll
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\x86\libtesseract304.dll
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\SimCityBuildItBot.exe
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\SimCityBuildItBot.pdb
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Camalot.Common.dll
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Common.Logging.Core.dll
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Common.Logging.dll
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Managed.Adb.dll
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\MoreLinq.dll
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Newtonsoft.Json.dll
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\SimplePaletteQuantizer.exe
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Tesseract.dll
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\SimplePaletteQuantizer.pdb
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Common.Logging.pdb
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Common.Logging.xml
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Common.Logging.Core.pdb
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Common.Logging.Core.xml
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Managed.Adb.pdb
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Managed.Adb.xml
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\MoreLinq.xml
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Newtonsoft.Json.xml
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\bin\Debug\Tesseract.xml
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.csprojResolveAssemblyReference.cache
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.Bot.MemuChooser.resources
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.DebugForm.resources
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.Properties.Resources.resources
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.ResourceReaderDesigner.resources
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.ScreenCaptureDesigner.resources
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.BotForm.resources
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.ShoppingListsForm.resources
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.TestForm.resources
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.BuyForm.resources
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.TradeDepot.resources
+C:\F drive\GitHub\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.csproj.GenerateResource.Cache
+F:\GitHub\SimCityBuildItBot\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.ImageHashing.HashingDemoForm.resources
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\tessdata\configs\bazzar
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\tessdata\eng.cube.bigrams
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\tessdata\eng.cube.fold
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\tessdata\eng.cube.lm
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\tessdata\eng.cube.nn
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\tessdata\eng.cube.params
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\tessdata\eng.cube.size
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\tessdata\eng.cube.word-freq
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\tessdata\eng.tesseract_cube.nn
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\tessdata\eng.traineddata
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\tessdata\eng.user-patterns
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\tessdata\eng.user-words
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\x64\liblept172.dll
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\x64\libtesseract304.dll
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\x86\liblept172.dll
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\x86\libtesseract304.dll
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\SimCityBuildItBot.exe.config
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\SimCityBuildItBot.exe
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\SimCityBuildItBot.pdb
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Camalot.Common.dll
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Common.Logging.Core.dll
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Common.Logging.dll
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Emgu.CV.Cuda.dll
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Emgu.CV.dll
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Emgu.CV.ML.dll
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Emgu.CV.OCR.dll
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Emgu.CV.Shape.dll
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Emgu.CV.Stitching.dll
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Emgu.CV.Superres.dll
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Emgu.CV.UI.dll
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Emgu.CV.UI.GL.dll
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Emgu.CV.VideoStab.dll
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Emgu.Util.dll
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Managed.Adb.dll
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\MoreLinq.dll
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Newtonsoft.Json.dll
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\SimplePaletteQuantizer.exe
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Tesseract.dll
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\ZedGraph.dll
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\SimplePaletteQuantizer.pdb
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Common.Logging.pdb
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Common.Logging.xml
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Common.Logging.Core.pdb
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Common.Logging.Core.xml
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Emgu.CV.xml
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Emgu.CV.Cuda.xml
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Emgu.CV.ML.xml
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Emgu.CV.OCR.xml
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Emgu.CV.Shape.xml
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Emgu.CV.Stitching.xml
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Emgu.CV.Superres.xml
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Emgu.CV.UI.xml
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Emgu.CV.UI.GL.xml
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Emgu.CV.VideoStab.xml
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Emgu.Util.xml
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Managed.Adb.pdb
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Managed.Adb.xml
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\MoreLinq.xml
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Newtonsoft.Json.xml
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Tesseract.xml
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.csprojResolveAssemblyReference.cache
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.Bot.MemuChooser.resources
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.DebugForm.resources
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.ImageHashing.HashingDemoForm.resources
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.Properties.Resources.resources
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.ResourceReaderDesigner.resources
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.ScreenCaptureDesigner.resources
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.BotForm.resources
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.ShoppingListsForm.resources
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.TestForm.resources
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.BuyForm.resources
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.TradeDepot.resources
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.csproj.GenerateResource.cache
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.csproj.CoreCompileInputs.cache
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.csproj.CopyComplete
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.exe
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\obj\Debug\SimCityBuildItBot.pdb
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\ColorMine.dll
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Emgu.CV.World.dll
+E:\Downloads\SimCityBuildItBot-master\SimCityBuildItBot-master\SimCityBuildItBot\bin\Debug\Emgu.CV.World.xml
